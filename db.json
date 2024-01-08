@@ -1,51 +1,33 @@
 {
-"data": [
- {
-"slug": "seo",
-"id": "seo",
-"enterprise": [
-{
-"heading": "Why Choose THE CUSTOM WEBSITES For Your Website SEO Service?",
-"texts": [
-  "People use the internet for almost everything from finding a hobby to finding a consultant, and the internet has every solution. Search Engine Optimization (SEO) helps people reach your online business and connect with your brand. Being the best Shopify SEO Agency, we provide professional SEO services to lead your brand towards success. So if you want to drive more traffic, boost business growth, generate more sales, or increase your revenue, you can seek our professional services.",
-  "Our keyword research strategies, marketing services, and search engine optimization provide endless opportunities for our clients to succeed, making us the best digital marketing company. We are experts because we know about website SEO, and we also understand what your visitors and search engines are looking for. So contact us and seek our SEO services today. You can also get a free E-commerce SEO audit to help understand the performance and condition of your website more in-depth."
-],
-"cards": [
-{
-"heading": "On-page SEO & off-page SEO",
-"text": "We target both On-page SEO and Off-page SEO as they help in better search engine rankings. We optimize your content and keywords in such a way to stand out in the search engine result pages (SERPs). In addition, a mobile-friendly website can change the game and get more traffic to your page with an improved user experience."
-},
-{
-"heading": "Content Marketing",
-"text": "We adopt advanced methods to generate and distribute excellent content that your target audience is going to love. Your customers expect consistent, high-quality content from your brand. With our incredible content marketing services, you can increase conversions, build trust with your customers, and seek priority, thus helping your audience make buying decisions."
-},
-{
-"heading": "Website Design & Development",
-"text": "Your website is the digital face of your brand. If you want to get leads, you need to have a flawless web design. Our web designers and developers are dedicated to helping you grow your business. Our experts will never disappoint you, from developing a custom website to providing unique UI/UX designs. We create visually appealing websites and applications with highly responsive designs to improve the user experience for your company."
-},
-{
-"heading": "Email Marketing",
-"text": "We care about your budget. We provide email marketing services as they are most effective in getting leads and connecting with your customer directly. We help you reach the audience that is already interested in your content and present your brand in a way that increases conversion rates, ultimately increasing sales and boosting your organic growth."
-},
-{
-"heading": "Social Media Marketing",
-"text": "Get to know your audience better and connect with potential customers through the right social media marketing strategies. Engage with your audience on Facebook, Instagram, Linkedin, Youtube, Twitter, or TikTok. Our experts will provide the right social media strategy to increase traffic, increase conversion rate, build trust among the audience, and better SEO – increasing your growth and brand awareness."
-},
-{
-"heading": "PPC (Pay Per Click Advertisement)",
-"text": "PPC (pay-per-click) is the most efficient digital marketing method. PPC helps you attain fast brand awareness while your SEO strategy works to raise the ranking of your website organically. As a result, PPC can help your business reach potential customers effectively, increase conversion rates, and generate more traffic, thus allowing you to grow your business effectively and generate high revenues."
-},
-{
-"heading": "Landing Page Design",
-"text": "We use landing page designs to drive tremendous traffic to your website, increase brand awareness, and improve SEO to help you reach more potential customers. We design flawless landing pages with the benefits and solutions mentioned to attract your potential customers to take action. Our experts will surely bring a significant boost in your sales for generating revenue."
-},
-{
-"heading": "Video Marketing",
-"text": "People are influenced more through visual content. Therefore, we create animated videos to educate your audience and increase brand awareness. Our experts will help you promote your services or product through video marketing that influence potential customers for improving conversion rate. Video content helps customers understand the product more effectively, thus generating more sales."
-}
-]
-}
-]
-}
-]
+  "data": [
+    {
+      "slug": "seo",
+      "id": "seo",
+      "enterprise": {
+        "heading": "Experience Our FREE Custom Web Design Services To Better Understand Your Needs",
+        "texts": [
+          "Enhance your online presence with a top-rated web design and development company. Avail of our free website mockup services to visualize your ideas and business needs. Our experts will craft a flawless design, providing you with a complete product structure at no cost. This allows you to assess the quality before making a commitment.",
+          "We prioritize the visual appeal of your website or application, ensuring it captivates potential customers. In our free mockup design, choose from various font families and styles to create an engaging website design. Seize this opportunity today, and let us shape your web design for 2024. Our highly responsive designs prioritize user experience and Google search engine optimization to expand your reach quickly."
+        ],
+        "grid": [
+          {
+            "heading": "Dedicated DevOps Developers",
+            "text": "Our DevOps experts are committed to delivering optimal solutions for your IT challenges. They enhance product and service quality, reducing risk factors."
+          },
+          {
+            "heading": "Another Section Heading",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          },
+          {
+            "heading": "Yet Another Section Heading",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          },
+          {
+            "heading": "And So On",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          }
+        ]
+      }
+    }
+  ]
 }
