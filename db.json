@@ -44,6 +44,53 @@
 }
 ]
 }
+},
+  {
+"slug": "quality-assurance",
+"id": "quality-assurance",
+"breadcrumbs": {
+"pageTitle": "Quality Assurance",
+"category": "Quality Assurance",
+"backgroundimage": "https://thecustomwebsites.com/wp-content/uploads/2023/05/uh9przg1neiqdelnlh3q.jpg"
+},
+"description": [
+{
+"heading": "Quality Assurance",
+"text": [
+"Imagine creating an amazing website, software, or application but when your users interact with it, they face navigation issues. What will they do? They will leave your website and choose your competitors’ for a better experience.",
+"If your product is not reliable, your customers will never trust you again. A product or software with bugs, poor user experience, and tons of issues will not get you anywhere. There’s fierce competition in the market. If you want to survive in the universe of perfection, enhance the quality of your products to get an ever-lasting impression from your customers. This is where Quality Assurance and Testing services will save your time, money, and customers.",
+"We at The Custom Websites, provide the best Quality Assurance services. With years of experience, our professionals help deliver perfectly functioning and high-quality software. We test the existing or new products to address problems, prevent mistakes, and ensure the high standards of the product."
+]
+}
+],
+"selection": [
+{
+"heading": "Fields Of Our Quality Assurance (QA) Services",
+"text": "We are the most reliable quality assurance testers and we offer all types of QA Testing Services. To create mature solutions that hide downtimes and secure promising results, The Custom Websites, a leading quality assurance business, combines technical know-how, cutting-edge technology, and a strategic approach. This combination is the key to your success. We Offer QA Testing Services In The Following Fields:",
+"cards": [
+{
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
+"heading": "Performance Testing",
+"text": "Whether the workload is 1% or 100%, the performance of your software or application will never be compromised. We ensure the speed, stability, and scalability of your final product. We conduct in-depth tests for Volume, Stress, Load, and configuration. We make graphs and charts to illustrate the required infrastructure."
+},
+{
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
+"heading": "Functional Testing",
+"text": "Test your software, application, or website for functionality to leave a good impression on customers' minds. We use professional tools to provide pitch-perfect functionality. Help you meet your users' expectations by fixing bugs. We test features and defects to meet industrial standardizations."
+},
+{
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
+"heading": "Security Testing",
+"text": "From making a product to onboarding it, the security of your data as well as your users' data is crucial. Take regulatory steps to avoid risks and cyber threats. Testing microservices to ensure the reliability of your product. Identify and fix any vulnerability that may harm your product."
+},
+{
+"icon": "https://thecustomwebsites.com/wp-content/uploads/2023/05/icons8-check-64.png",
+"heading": "Usability Testing",
+"text": "Our software quality experts help you retain potential consumers by enhancing the user experience. Test for usability and ensure that your software application is performing to the best standards. Ensure consistent UI interaction and smooth navigation. Minimizing the cost and maximizing the user experience Deliver a product that your customers will love."
+}
+]
+}
+]
 }
 ]
 }
